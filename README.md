@@ -45,3 +45,5 @@ For example if there are 100 people in the distribution and 30 of them are coded
 Suppose we want to predict whether someone is male or female (DV, M=1, F=0) using height in inches (IV). We could plot the relations between the two variables as we customarily do in regression. The plot might look something like this:
 
 ![Example of logistic regression:](https://user-images.githubusercontent.com/71320683/208404087-817dafa4-f83d-4da1-a7aa-b67ee3002dce.png)
+
+
