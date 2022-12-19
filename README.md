@@ -28,7 +28,7 @@ https://www.kaggle.com/code/szymonsmg/titanicprediction
 5. K-Nearest Neighbors.
 
 # Descriptions of algorithms:
-1. Logistic regression:
+**1. Logistic regression:**
 
 Logistic regression is a statistical analysis method to predict a binary outcome, (yes or no) according to observations on dataset. 
 
